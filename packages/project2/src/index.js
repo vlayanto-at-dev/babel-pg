@@ -1,0 +1,1 @@
+export { function2 } from './function2/function2';

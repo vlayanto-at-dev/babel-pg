@@ -1,0 +1,14 @@
+{
+  "name": "@fin/react-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src --out-dir dist",
+    "build:webpack": "webpack"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

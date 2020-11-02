@@ -1,0 +1,13 @@
+{
+  "npmClient": "yarn",
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "npmClientArgs": ["--frozen-lock-file"]
+    }
+  },
+  "useWorkspaces": true,
+  "version": "independent"
+}
